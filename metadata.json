@@ -1,0 +1,6 @@
+{
+  "name": "AbsensiSiswa - Aplikasi Absensi Siswa Android & Flutter",
+  "description": "Aplikasi Absensi Siswa berbasis Android (Flutter & Firebase) untuk Guru dan Siswa dengan manajemen kelas & pendidik, rekap laporan berkala (Harian, Mingguan, Bulanan, Semester, Tahunan) PDF/Excel, dan statistik kehadiran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
